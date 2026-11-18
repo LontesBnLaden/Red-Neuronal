@@ -1,0 +1,24 @@
+{
+  "clases": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "caracteristicas_en_orden": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "semilla": 42,
+  "modelos": {
+    "secuencial": {
+      "exactitud_prueba": 0.9666666388511658,
+      "perdida_prueba": 0.1181432455778122
+    },
+    "funcional": {
+      "exactitud_prueba": 0.9666666388511658,
+      "perdida_prueba": 0.1181432455778122
+    }
+  }
+}
